@@ -1,4 +1,4 @@
-django==2.2.5
+django==2.2.28
 pytest-django==3.5.1
 pytest-splinter==2.0.1
 pytest-bdd==3.2.1
